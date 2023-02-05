@@ -5,5 +5,5 @@
 </div>
 <div align="right">
     
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9jQAIGOOSfnky8OP2Ep4YDVrT4DPbAsI3MRmA1gK4w&s" width="250"/>
+<h1>Thanks for view this repo ... <h1>
   </div>
